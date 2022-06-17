@@ -1,4 +1,4 @@
-# 🔐 rsa-laravel
+# 🔐 rsa-php
 
 This is a class to handle with RSA criptography (asymmetrical).
 <br><br>
